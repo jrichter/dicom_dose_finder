@@ -1,4 +1,5 @@
-Dicom Dose Finder
+#Dicom Dose Finder
+
   A simple ruby wrapper for dicom-ruby which allows one to pull summary
 sheets from a PACS server and analyze them for useful radiation doses.
 It will also allow tracking of said doses.
